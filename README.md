@@ -169,7 +169,7 @@ We welcome Python contributions! Please:
 **Focus**: Building comprehensive DSA solutions  
 **Goal**: Master algorithms with Python
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/dronabopche?theme=dark)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Drona_Bopche?theme=dark)
 
 </div>
 
