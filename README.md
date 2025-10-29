@@ -8,7 +8,7 @@
 
 <div align="center">
 
-![Coding Journey](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGluMHV5NnVteXpueHQ2dndhd2hpZXhtZnNoZmp0dm56cWo3d210eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/duiUpw6pXiggCW1qMP/giphy.gif)
+![Coding Journey](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXM5NjFmNzFkOXRtdTY5czd1YTdlNmlkcDNtZDcxOWhzbDZyeWt2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NaZTMzp9wExfPoboWR/giphy.gif)
 
 ### 🌟 **Current Focus**: Mastering Data Structures & Algorithms in Python
 
@@ -74,7 +74,7 @@ leetCode-/
 
 <div align="center">
 
-![Music Coding](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZhMjB1eWppNmdiem5qZ2xoNWwyNjluMjFtY3dsMW5lcTRsYjczcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cLjz0QN9ZjCtSYD0TR/giphy.gif)
+![Music Coding](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXM5NjFmNzFkOXRtdTY5czd1YTdlNmlkcDNtZDcxOWhzbDZyeWt2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NaZTMzp9wExfPoboWR/giphy.gif)
 
 </div>
 
@@ -109,7 +109,7 @@ leetCode-/
 
 <div align="center">
 
-![Coding Profiles](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJ5MnNoZ2g0ams0b3M3czRhbGlwMzRyYm9oeXc2aG5tYTF4OHdxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RLbdgn0S36my2VfInK/giphy.gif)
+![Coding Profiles](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXM5NjFmNzFkOXRtdTY5czd1YTdlNmlkcDNtZDcxOWhzbDZyeWt2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NaZTMzp9wExfPoboWR/giphy.gif)
 
 </div>
 
@@ -161,7 +161,7 @@ Contest Rank:   ██████████ 100%
 
 > **"The beautiful thing about learning is that no one can take it away from you."** - B.B. King
 
-![Keep Coding](https://giphy.com/gifs/lines-decoration-talloblanco-RLbdgn0S36my2VfInK)
+![Keep Coding](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXM5NjFmNzFkOXRtdTY5czd1YTdlNmlkcDNtZDcxOWhzbDZyeWt2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NaZTMzp9wExfPoboWR/giphy.gif)
 
 ### 🚀 **Next Milestone**: 200 LeetCode Problems
 
