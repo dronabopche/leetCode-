@@ -8,7 +8,7 @@
 
 <div align="center">
 
-![Coding Journey](https://giphy.com/gifs/love-lines-decoration-duiUpw6pXiggCW1qMP)
+![Coding Journey](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGluMHV5NnVteXpueHQ2dndhd2hpZXhtZnNoZmp0dm56cWo3d210eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/duiUpw6pXiggCW1qMP/giphy.gif)
 
 ### 🌟 **Current Focus**: Mastering Data Structures & Algorithms in Python
 
@@ -109,7 +109,7 @@ leetCode-/
 
 <div align="center">
 
-![Coding Profiles](https://media.giphy.com/media/uhQuegHFqkVYuFMXMP/giphy.gif)
+![Coding Profiles](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJ5MnNoZ2g0ams0b3M3czRhbGlwMzRyYm9oeXc2aG5tYTF4OHdxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RLbdgn0S36my2VfInK/giphy.gif)
 
 </div>
 
