@@ -74,7 +74,7 @@ leetCode-/
 
 <div align="center">
 
-![Music Coding](https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif)
+![Music Coding](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZhMjB1eWppNmdiem5qZ2xoNWwyNjluMjFtY3dsMW5lcTRsYjczcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cLjz0QN9ZjCtSYD0TR/giphy.gif)
 
 </div>
 
@@ -83,7 +83,7 @@ leetCode-/
 ## 🌐 My Coding Universe Profiles
 
 ### 🏆 LeetCode Kingdom
-![LeetCode Stats](https://leetcard.jacoblin.cool/Drona_Bopche?theme=light&font=Karma&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Drona_Bopche?theme=dark)
 
 **Kingdom Stats:**
 - 🏰 **Problems Conquered**: 150+
