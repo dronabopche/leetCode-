@@ -1,22 +1,22 @@
 # LeetCode Solutions
 
-A collection of LeetCode problem solutions implemented in C++.
+A collection of LeetCode problem solutions implemented in Python.
 
-![C++ LeetCode](https://img.shields.io/badge/C++-LeetCode-blue?logo=cplusplus&style=for-the-badge)
+![Python LeetCode](https://img.shields.io/badge/Python-LeetCode-blue?logo=python&style=for-the-badge)
 ![Progress](https://img.shields.io/badge/Progress-Active-success?style=for-the-badge)
 
 ## 📁 Repository Structure
 
 ```
 leetCode-/
-├── 📂 binary-tree/           # Binary Tree problems in C++
-├── 📂 lld/                   # Low Level Design problems in C++
-├── 📂 array/                 # Array problems in C++
-├── 📂 2d-array/             # 2D Array/Matrix problems in C++
-├── 📂 map/                   # Hash Map problems in C++
-├── 📂 heap/                  # Heap problems in C++
-├── 📂 graph/                 # Graph problems in C++
-├── 📂 bit-manipulation/      # Bit Manipulation problems in C++
+├── 📂 binary-tree/           # Binary Tree problems in Python
+├── 📂 lld/                   # Low Level Design problems in Python
+├── 📂 array/                 # Array problems in Python
+├── 📂 2d-array/             # 2D Array/Matrix problems in Python
+├── 📂 map/                   # Hash Map problems in Python
+├── 📂 heap/                  # Heap problems in Python
+├── 📂 graph/                 # Graph problems in Python
+├── 📂 bit-manipulation/      # Bit Manipulation problems in Python
 └── 📄 README.md              # This file
 ```
 
@@ -24,16 +24,15 @@ leetCode-/
 
 <div align="center">
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 
 </div>
 
 ### 📂 Folder Progress
 
-| Category | Status | Progress | C++ Files |
+| Category | Status | Progress | Python Files |
 |----------|---------|----------|-----------|
 | **🌳 Binary Tree** | 🟡 Planning | ███░░ 30% | 0 |
 | **🎨 LLD** | 🟡 Planning | ██░░░ 20% | 0 |
@@ -46,32 +45,32 @@ leetCode-/
 
 ## 🎯 Problem Categories
 
-### 🌳 Binary Tree (C++)
-**Planned C++ Solutions:**
+### 🌳 Binary Tree (Python)
+**Planned Python Solutions:**
 - Binary Tree Traversals (Inorder, Preorder, Postorder)
 - BST Validation and Operations
 - Tree Depth, Diameter, and Properties
 - Lowest Common Ancestor
 - Tree Serialization/Deserialization
 
-### 📊 Array Problems (C++)
-**Planned C++ Solutions:**
+### 📊 Array Problems (Python)
+**Planned Python Solutions:**
 - Two Pointers Technique
 - Sliding Window Problems
 - Sorting and Searching
 - Kadane's Algorithm
 - Binary Search Variations
 
-### 🖼️ 2D Array/Matrix (C++)
-**Planned C++ Solutions:**
+### 🖼️ 2D Array/Matrix (Python)
+**Planned Python Solutions:**
 - Matrix Rotation and Transformation
 - Spiral Traversal Patterns
 - Island Counting Problems
 - Dynamic Programming on Grids
 - Path Finding Algorithms
 
-### 🎨 Linked List (C++)
-**Planned C++ Projects:**
+### 🎨 Low Level Design (Python)
+**Planned Python Projects:**
 - Parking Lot System Design
 - Cache Implementation (LRU/LFU)
 - Logger System with Multiple Sinks
@@ -82,15 +81,15 @@ leetCode-/
 
 ### Phase 1: Foundation Setup
 - [x] Create organized folder structure
-- [ ] Add basic C++ solution templates
-- [ ] Setup CMake build system
-- [ ] Create standard header files
+- [ ] Add basic Python solution templates
+- [ ] Setup testing framework
+- [ ] Create utility modules
 
 ### Phase 2: Core Implementation
 - [ ] Implement 5+ solutions per category
 - [ ] Add comprehensive test cases
 - [ ] Include time/space complexity analysis
-- [ ] Create utility libraries
+- [ ] Create helper functions
 
 ### Phase 3: Advanced Features
 - [ ] Multiple solution approaches
@@ -98,22 +97,22 @@ leetCode-/
 - [ ] Memory usage optimization
 - [ ] Contest solution tracking
 
-## 📝 C++ Solution Guidelines
+## 📝 Python Solution Guidelines
 
 ### File Structure
-- Use `.cpp` and `.hpp` files
-- Include problem statement as comments
+- Use `.py` files with descriptive names
+- Include problem statement as docstrings
 - Add complexity analysis
 - Provide multiple test cases
 
 ### Coding Standards
-- Follow modern C++ practices (C++17/20)
-- Use meaningful variable names
-- Include necessary STL headers
+- Follow PEP 8 style guide
+- Use meaningful variable and function names
+- Include type hints where appropriate
 - Add proper error handling
 
 ### Testing
-- Include main function with test cases
+- Include `__main__` with test cases
 - Use assert statements for verification
 - Test edge cases and boundaries
 - Document expected outputs
@@ -121,38 +120,41 @@ leetCode-/
 ## 📈 Progress Goals
 
 ### Immediate Goals (2 weeks)
-- [ ] Convert existing PDFs to C++ solutions
-- [ ] Add 10+ working C++ implementations
-- [ ] Setup build system and documentation
+- [ ] Convert existing solutions to Python
+- [ ] Add 10+ working Python implementations
+- [ ] Setup testing and documentation
 - [ ] Create solution templates
 
 ### Short Term Goals (1 month)
-- [ ] 25+ quality C++ solutions
+- [ ] 25+ quality Python solutions
 - [ ] Complete complexity analysis
 - [ ] Add unit testing framework
 - [ ] Organize by difficulty levels
 
 ### Long Term Goals (3 months)
-- [ ] 75+ comprehensive C++ solutions
+- [ ] 75+ comprehensive Python solutions
 - [ ] Full test coverage
 - [ ] Performance benchmarks
 - [ ] Learning progression paths
 
-## 🔧 Build Instructions
+## 🔧 Running Solutions
 
 ```bash
-# Planned build system
-mkdir build
-cd build
-cmake ..
-make
+# Run individual solutions
+python binary-tree/inorder_traversal.py
+
+# Run tests
+python -m pytest tests/
+
+# Run with custom input
+python array/two_sum.py
 ```
 
 ## 🤝 Contribution
 
-We welcome C++ contributions! Please:
+We welcome Python contributions! Please:
 
-1. Follow the existing code style
+1. Follow PEP 8 style guide
 2. Include problem description and approach
 3. Add time and space complexity analysis
 4. Provide test cases
@@ -163,16 +165,16 @@ We welcome C++ contributions! Please:
 <div align="center">
 
 **Status**: 🏗️ Under Active Development  
-**Language**: C++  
+**Language**: Python  
 **Focus**: Building comprehensive DSA solutions  
-**Goal**: Master algorithms with modern C++
+**Goal**: Master algorithms with Python
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/api?username=yourusername&theme=light)
+![LeetCode Stats](https://leetcard.jacoblin.cool/dronabopche?theme=dark)
 
 </div>
 
-*"The best way to learn C++ is to write C++ code and solve real problems."*
+*"The best way to learn Python is to write Python code and solve real problems."*
 
-**Happy Coding in C++! 🚀**
+**Happy Coding in Python! 🚀**
 
 *"The journey of a thousand miles begins with a single step." - Start coding!*
